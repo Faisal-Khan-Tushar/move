@@ -1,0 +1,74 @@
+.h1{
+  color:black;
+  background-color:olivedrab;
+  border:10px solid black;
+  border-radius:30px;
+  text-align:center;
+  margin:20px 200px;
+  font-size:4em;
+ 
+
+}
+#conjuring{
+  color:black;
+  background-color:palevioletred;
+  height:40px;
+  font-size:30px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align:center;
+  border:5px solid black;
+  border-radius:60px;
+  margin-top:20px;
+  margin-left:50px;
+  margin-right:40px;
+  margin-bottom:10px;
+  
+
+
+}
+#jumanji{
+  color:black;
+  background-color:palevioletred;
+  height:40px;
+  font-size:30px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align:center;
+  border-bottom:1px solid;
+  
+  margin:40px 110px;
+  
+}
+.description{
+  color:black;
+  background-color:palevioletred;
+  height:100px;
+  font-weight:800;
+}
+#hero{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.hero2
+{
+  background-color:peru;
+}
+.division{
+ background-color:palevioletred;
+ border: 10px solid black;
+ border-radius:20px;
+ text-align:justify;
+ 
+ 
+
+}
+.movie-name{
+  color:darkblue;
+}
+small{
+  display:block;
+}
+h2{
+  display:inline;
+}
+img{
+  position:left 100px, top 30px,right 30px;
+}
